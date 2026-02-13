@@ -1,5 +1,5 @@
 # Coffee-Shop-Sales
-☕ Coffee Shop Sales Analysis
+
 📌 Overview
 
 This project analyzes coffee shop sales data to generate actionable insights and visual storytelling through dashboards and reports. It demonstrates the end-to-end analytics workflow: from data ingestion and cleaning, through Power BI data modelling and transformations, to building an interactive Excel dashboard and summarizing business outcomes.
